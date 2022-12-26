@@ -1,0 +1,13 @@
+body{
+  margin: 0;
+  background-color: black;
+}
+
+.card{
+  width: 24%;
+  cursor: pointer;
+}
+
+a, h1{
+  cursor: default;
+}
