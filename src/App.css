@@ -1,6 +1,8 @@
 body{
   margin: 0;
   background-color: black;
+  cursor: default;
+  text-decoration: auto;
 }
 
 .card{
@@ -8,6 +10,10 @@ body{
   cursor: pointer;
 }
 
-a, h1{
-  cursor: default;
+.link{
+  width: 100%;
+}
+
+img{
+  height: 220px;
 }
