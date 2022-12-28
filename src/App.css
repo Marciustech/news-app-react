@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  background-color: black;
+  cursor: default;
+  text-decoration: auto;
+}
+
+.card{
+  width: 24%;
+  cursor: pointer;
+}
+
+.link{
+  width: 100%;
+}
+
+img{
+  height: 220px;
+}
